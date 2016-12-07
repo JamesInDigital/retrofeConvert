@@ -30,15 +30,7 @@ Delete existing meta.db and run RetroFE
 Should be fairly quick and leave you with your original source file, the output file and a story subdirectory housing the story text files.  
 
 TESTED WITH VERSION (1.0):
-System					Format
-Atari 2600				Rom Hunter v11.0
-Atari 5200				No-Intro
-Atari 7800				No-Intro
-Nintendo DS				Scene Converted to No-Intro
-MAME					MAME .178 Roms
-Super Nintendo			No-Intro
-Super Nintendo			No-Intro
-Mattel Intellivision	GoodRoms
+Atari 2600 - Rom Hunter v11.0,  Atari 5200 - No-Intro, Atari 7800 - No-Intro, Nintendo DS	 - Scene Converted to No-Intro, MAME .178 Roms, Super Nintendo - No-Intro, Super Nintendo - No-Intro, Mattel Intellivision - GoodRoms.  
 
 
 ToDo:  
