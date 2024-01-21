@@ -24,12 +24,6 @@ Purpose: Take the gamelist.xml generated from thegamesdb and other sources by th
 **Things to know:** Currently case sensitive in some spots. For sets like MAME or Nintendo DS some of the functions are modified due to the way game name is handled. The program knows this based on the system type you give it. Currently Arcade, MAME or Nintendo DS (not case sensitive) will automatically work. This should work for any scenario like this, but I will need to add the system names that require the code variation, currently (DS, MAME, Intellivision). SEE TESTED.  
 It will error out or produce poor output if there are weird characters (usually malformed from a bad pull) in your game titles (?,/,etc)   
 
-GameListConvert 1.1 (Executable)  
-https://drive.google.com/open?id=0B-w601r8Y_lXNGM4VF96ZHdGQ1U  
-GameListConvert 1.1 (Python Script)  
-https://drive.google.com/open?id=0B-w601r8Y_lXNVFldS1hcDdSdWM  
-Sample MAME and SNES gamelist.xml files attached to post for testing.  
-
 **How to use:**
 Place in directory with the xml you want to convert.  
 Run program.  
